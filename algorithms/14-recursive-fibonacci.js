@@ -15,4 +15,4 @@ console.log(recursiveFibonacci(0));
 console.log(recursiveFibonacci(1));
 console.log(recursiveFibonacci(3));
 console.log(recursiveFibonacci(6));
-console.log(recursiveFibonacci(7));
+console.log(recursiveFibonacci(7)); // O(2^n)
