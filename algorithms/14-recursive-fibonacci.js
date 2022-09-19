@@ -1,4 +1,4 @@
-// Given a number 'n', find the nth element of the fibonacci sequence
+// Given a number 'n', find the nth element of the fibonacci sequence.
 
 // [0,1,1,2,3,5,8,...n]
 // first two elements are 0 and 1

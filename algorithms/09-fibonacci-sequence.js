@@ -1,4 +1,4 @@
-// Given a number 'n', find the first 'n' element of the fibonacci sequence
+// Given a number 'n', find the first 'n' element of the fibonacci sequence.
 
 // fibonacci(2) = [0,1]
 // fibonacci(3) = [0,1,1]

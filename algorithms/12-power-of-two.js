@@ -1,4 +1,4 @@
-// Given a positive integer 'n', determine if the number is a power of 2 or not
+// Given a positive integer 'n', determine if the number is a power of 2 or not.
 
 // 1 = true (2^0)
 // 2 = true (2^1)
@@ -20,4 +20,4 @@ function powerOfTwo(n) {
 console.log(powerOfTwo(1));
 console.log(powerOfTwo(2));
 console.log(powerOfTwo(5));
-console.log(powerOfTwo(8)); // O(logn) - logarithm
+console.log(powerOfTwo(8)); // O(logn) - logarithmic

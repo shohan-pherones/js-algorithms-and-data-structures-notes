@@ -1,4 +1,4 @@
-// Given an integer 'n', find the factorial of that integer
+// Given an integer 'n', find the factorial of that integer.
 
 // 0! = 1
 // 4! = 4 * 3 * 2 * 1

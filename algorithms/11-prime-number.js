@@ -1,4 +1,4 @@
-// Given a natural number 'n', determine if the number is prime or not
+// Given a natural number 'n', determine if the number is prime or not.
 
 // 5 is prime (1 * 5 or 5 * 1)
 // 4 is not prime (1 * 4 or 2 * 2 or 4 * 1)
